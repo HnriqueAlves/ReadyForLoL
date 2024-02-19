@@ -1,4 +1,5 @@
-https://img.shields.io/github/license/HnriqueAlves/ReadyForLoL
+![GitHub License](https://img.shields.io/github/license/HnriqueAlves/ReadyForLoL)
+
 
 
 # ReadyForLoL
