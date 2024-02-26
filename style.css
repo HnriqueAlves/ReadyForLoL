@@ -1,0 +1,64 @@
+/**
+folha de estilo do site RFLoL.gg
+@author Henrique ALves da Silva Neto
+@link http://127.0.0.1:5500/contatos/apoio.html
+*/
+
+/*CSS RESET*/
+{
+    magin: 0;
+    padding: 0;
+    border: 0;
+
+}
+/** importar fonte */
+@import url('@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&display=swap')
+</style>')
+
+@import url('@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Micro+5&display=swap')');
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Jacquarda Bastarda 9", "Micro 5";
+    font-si ze: 1em;
+}
+
+/** Smartphone portrait >>>>>>>>>>>>>>>>>*/
+
+/** smartphone landscape>>>>>>>>>>>>>>>>>*/
+@media(min-width: 576px){
+    body{
+        background-color: dodgerblue;
+    }
+}
+
+/** tablet portrait >>>>>>>>>>>>>>>>>>>>>*/
+@media(min-width: 768px){
+    body{
+        background-color:navy;
+    }
+}
+
+/** tablet landscape >>>>>>>>>>>>>>>>>>>>*/
+@media(min-width: 992px){
+    body{
+        background-color:cornflowerblue;
+    }
+}
+
+/** PC ou notebooks HD >>>>>>>>>>>>>>>>>>*/
+@media(min-width: 1200px){
+    body{
+        background-color:rgb(100, 102, 237);
+    }
+}
+
+/* PCs ou notebooks TV Full HD >>>>>>>>>>>>>*/
+@media(min-width: 1400px){
+    body{
+        background-color:rgb(30, 0, 114);
+    }
+}
