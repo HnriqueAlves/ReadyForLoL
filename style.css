@@ -88,12 +88,22 @@ body {
     font-size: 1.2em;
     font-weight: 700;
 }
+.Button2 {
+    text-decoration: none;
+    background-color: var(--brancoLayout);
+    color: var(--vermelhoLayout);
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 1em;
+    font-weight: 600;
+}
 
 /* Topo */
 #topo {
     position: fixed;
     right: 10px;
     bottom: 10px;
+    z-index: 2;
 }
 
 /* Smartphone portrait >>>>>>>>>>>>>>>> */
@@ -131,6 +141,7 @@ nav ul {
     /*estratégia para recolher o menu*/
     width: 70%;
     transition: all 0.5s;
+    z-index: 1;
 }
 
 /* ativar o checkbox refernte a ul*/
@@ -143,6 +154,13 @@ nav ul li {
     text-align: right;
     padding: 15px;
 
+}
+/* Esconder estrela do menu */
+#s1,
+#s2,
+#s3,
+#s4 {
+    display: none;
 }
 
 nav ul li a {
