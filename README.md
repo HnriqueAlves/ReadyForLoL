@@ -1,7 +1,7 @@
 ![GitHub License](https://img.shields.io/github/license/HnriqueAlves/ReadyForLoL)
 ![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fhnriquealves.github.io%2FReadyForLoL%2F)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhnriquealves.github.io%2FReadyForLoL%2F)
-
+![QRCODE](https://hnriquealves.github.io/ReadyForLoL/)
 
 
 
